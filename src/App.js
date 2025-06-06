@@ -63,7 +63,7 @@ function App() {
       >
         {isDarkMode ? "☀️ Light Mode" : "🌙 Dark Mode"}
       </button>
-      <h1>🌤 Weather App</h1>
+      <h1>🌤 Weather Live</h1>
       <div className="input-section">
         <input
           type="text"
